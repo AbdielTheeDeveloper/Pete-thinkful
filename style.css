@@ -7,6 +7,9 @@ body {
   padding: 40px;
   background-color: #eae2b7;
 }
+<head>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
 header {
   text-align: center;
 }
