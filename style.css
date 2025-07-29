@@ -4,7 +4,7 @@
 body {
   color: #003049;
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
-  padding: 40px;
+  padding: 40 px;
   background-color: #eae2b7;
 }
 nav {
@@ -12,37 +12,37 @@ nav {
   margin: 0 auto;
 }
 nav a {
-  margin: 0 10px;
+  margin: 0 10 px;
   text-decoration: none;
   color: red;
 /* Set the font family for any h1, h2, or h3 heading */
 h1{
   color: #003049;
   font-family: "Times New Roman";
-  font-size: 28px;
+  font-size: 28 px;
   text-align: center;
 }
 h2{
   color: #003049;
   font-family: "Times New Roman";
-  font-size: 20px;
+  font-size: 20 px;
   text-align: center;
 }
 h3 {
   font-family: "Playfair Display", Times, serif;
-  font-size: 12px;
+  font-size: 12 px;
   text-align: center;
 }
 
 a:link { color: #d62828; text-align: center; }
 
 article {
-  padding: 50px 0;
+  padding: 50 px 0;
 }
 
 article div {
   text-align: center;
-  width: 100%;
+  width: 100 %;
 }
 
 p {
@@ -52,24 +52,24 @@ p {
 /* The div container constrains the content width within the main container to 600px */
 div {
   margin: auto;
-  width: 600px;
+  width: 600 px;
 }
 
 img {
-  width: 100%;
-  max-width: 200px;
+  width: 100 %;
+  max-width: 200 px;
   height: auto;
 }
 
 hr {
-  border: 1px solid black;
+  border: 1 px solid black;
 }
 
 /* Add your solution below */
 
 .image-circle {
-  border-radius: 50%;
-  border: 2px solid #003049;
+  border-radius: 50 %;
+  border: 2 px solid #003049;
 }
 footer {
   text-align: center;
