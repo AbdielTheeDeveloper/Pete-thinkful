@@ -7,6 +7,7 @@ body {
   padding: 40px;
   background-color: #eae2b7;
 }
+
 header {
     text-align: center;
 }
@@ -18,6 +19,7 @@ nav a {
     margin: 0 10px;
     text-decoration: none;
 }
+
 /* Set the font family for any h1, h2, or h3 heading */
 h1{
   color: #003049;
